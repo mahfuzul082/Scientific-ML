@@ -1,6 +1,8 @@
 /books/
-/homework/homework-1/*.pdf
-/homework/homework-1/*.tex
-/homework/homework-1/*.pptx
-/homework/homework-1/*.png
-/homework/homework-1/*.gz
+/homeworks/homework-1/*.pdf
+/homeworks/homework-1/*.tex
+/homeworks/homework-1/*.pptx
+/homeworks/homework-1/*.png
+/homeworks/homework-1/*.gz
+/labs/.ipynb_checkpoints
+/papers
