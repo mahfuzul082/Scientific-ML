@@ -5,4 +5,6 @@
 /homeworks/homework-1/*.gz
 /homeworks/homework-2/*.py
 /labs/.ipynb_checkpoints
-/papers
+/papers/*.pdf
+/homeworks/homework-2/*.tex
+/homeworks/homework-2/*.png
