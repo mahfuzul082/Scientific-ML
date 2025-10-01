@@ -3,8 +3,12 @@
 /homeworks/homework-1/*.pptx
 /homeworks/homework-1/*.png
 /homeworks/homework-1/*.gz
-/homeworks/homework-2/*.py
+/homeworks/homework-1/*.aux
+/homeworks/homework-1/*.out
 /labs/.ipynb_checkpoints
 /papers/*.pdf
 /homeworks/homework-2/*.tex
 /homeworks/homework-2/*.png
+/homeworks/homework-1/*.gz
+/homeworks/homework-1/*.aux
+/homeworks/homework-1/*.out
