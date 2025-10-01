@@ -9,6 +9,6 @@
 /papers/*.pdf
 /homeworks/homework-2/*.tex
 /homeworks/homework-2/*.png
-/homeworks/homework-1/*.gz
-/homeworks/homework-1/*.aux
-/homeworks/homework-1/*.out
+/homeworks/homework-2/*.gz
+/homeworks/homework-2/*.aux
+/homeworks/homework-2/*.out
