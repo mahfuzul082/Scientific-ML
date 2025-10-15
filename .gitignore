@@ -5,6 +5,7 @@
 /homeworks/homework-1/*.gz
 /homeworks/homework-1/*.aux
 /homeworks/homework-1/*.out
+/homeworks/homework-1/*.log
 /labs/.ipynb_checkpoints
 /papers/*.pdf
 /homeworks/homework-2/*.tex
@@ -12,8 +13,10 @@
 /homeworks/homework-2/*.gz
 /homeworks/homework-2/*.aux
 /homeworks/homework-2/*.out
+/homeworks/homework-2/*.log
 /homeworks/homework-3/*.tex
 /homeworks/homework-3/*.png
 /homeworks/homework-3/*.gz
 /homeworks/homework-3/*.aux
 /homeworks/homework-3/*.out
+/homeworks/homework-3/*.log
