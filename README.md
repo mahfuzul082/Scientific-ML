@@ -3,5 +3,7 @@ Codes and documents for homeworks, labs, and project of the course MTH 602: Scie
 
 1. Homeworks
    - Linear algebra and polynomial regression.
+   - Floating point numbers, probability and signal detection.
 2. Labs
-3. Project
+   - Probability of coin flip.
+4. Project
