@@ -7,4 +7,4 @@ Codes and documents for homeworks, labs, and project of the course MTH 602: Scie
    - Bayesian probability and information theory.
 2. Labs
    - Probability of coin flip.
-4. Project
+3. Project
