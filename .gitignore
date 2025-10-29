@@ -20,3 +20,11 @@
 /homeworks/homework-3/*.aux
 /homeworks/homework-3/*.out
 /homeworks/homework-3/*.log
+/homeworks/homework-4/*.tex
+/homeworks/homework-4/*.png
+/homeworks/homework-4/*.gz
+/homeworks/homework-4/*.aux
+/homeworks/homework-4/*.out
+/homeworks/homework-4/*.log
+/homeworks/homework-4/*.txt
+/homeworks/homework-4/calc.py
