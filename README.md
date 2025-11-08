@@ -1,4 +1,6 @@
 # Scientific-ML
+Instructor: Prof. Scott Field
+
 Codes and documents for homeworks, labs, and project of the course MTH 602: Scientific Machine Learning.
 
 1. Homeworks
