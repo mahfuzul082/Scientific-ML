@@ -11,4 +11,5 @@ Codes and documents for homeworks, labs, and project of the course MTH 602: Scie
    - Geometric and probabilistic classifiers.
 2. Labs
    - Probability of coin flip.
+   - Getting started with Deep Jax.
 3. Project
