@@ -9,6 +9,7 @@ Codes and documents for homeworks, labs, and project of the course MTH 602: Scie
    - Bayesian probability and information theory.
    - Gaussian mixture model (GMM) and polynomial regression with regularization (Ridge regression).
    - Geometric and probabilistic classifiers.
+   - Stochastic gradient descent (SGD) and universal approximation theorem.
 2. Labs
    - Probability of coin flip.
    - Getting started with Deep Jax.
