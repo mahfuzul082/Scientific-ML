@@ -14,4 +14,5 @@ Codes and documents for homeworks, labs, and project of the course MTH 602: Scie
 2. Labs
    - Probability of coin flip.
    - Getting started with Deep Jax.
+   - Feed-forward neural networks for classification.
 3. Project
