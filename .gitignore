@@ -41,3 +41,21 @@
 /homeworks/homework-6/*.out
 /homeworks/homework-6/*.log
 /homeworks/homework-6/*.txt
+/homeworks/homework-7/*.tex
+/homeworks/homework-7/*.png
+/homeworks/homework-7/*.gz
+/homeworks/homework-7/*.aux
+/homeworks/homework-7/*.out
+/homeworks/homework-7/*.log
+/homeworks/homework-7/*.txt
+/final project/data_presentation/
+/final project/project_figs/
+/final project/*.png
+/final project/*.pptx
+/final project/*.txt
+/final project/*.gz
+/final project/*.aux
+/final project/*.out
+/final project/*.log
+/final project/*.tex
+/final project/*.bib
