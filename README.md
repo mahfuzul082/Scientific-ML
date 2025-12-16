@@ -16,3 +16,4 @@ Codes and documents for homeworks, labs, and project of the course MTH 602: Scie
    - Getting started with Deep Jax.
    - Feed-forward neural networks for classification.
 3. Project
+   - Exploring Physics-based Neural Networks for tracking volume in multiphase flow.
